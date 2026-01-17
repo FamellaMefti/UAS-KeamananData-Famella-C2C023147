@@ -281,7 +281,7 @@
     <div class="container">
         <div class="header">
             <h1>🔒 UAS Keamanan Data dan Informasi</h1>
-            <p><strong>Nama:</strong> Famella Mefti <strong>NIM:</strong> C2C0231</p>
+            <p><strong>Nama:</strong> Famella Mefti <strong>NIM:</strong> C2C023147</p>
             <p><strong>Mata Kuliah:</strong> IF2350073 - MK07 (Keamanan Data dan Informasi Praktikum)</p>
             <p><strong>Dosen:</strong> Dr. Dhendra Marutho, S.Kom., M.Kom</p>
         </div>
