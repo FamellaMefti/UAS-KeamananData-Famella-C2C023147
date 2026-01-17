@@ -1,0 +1,24 @@
+==========================================
+SAMPLE CONFIGURATION FILE
+==========================================
+
+[Database Config]
+db_host = localhost
+db_user = root
+db_pass = 
+db_name = uas_keamanan
+
+[App Config]
+app_name = UAS Keamanan Web App
+version = 1.0
+environment = development
+
+[Security - VULNERABLE!]
+password_hashing = false
+rate_limiting = false
+csrf_protection = false
+input_validation = false
+
+==========================================
+WARNING: This is vulnerable version!
+==========================================

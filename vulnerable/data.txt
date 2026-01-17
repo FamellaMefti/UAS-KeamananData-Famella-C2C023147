@@ -1,0 +1,16 @@
+==========================================
+SAMPLE DATA FILE
+==========================================
+
+Ini adalah contoh file data.txt
+
+File ini berisi informasi sample untuk testing
+File Viewer Module.
+
+Tanggal: 17 Januari 2026
+Nama: Nada Saida Putri
+NIM: C2C023134
+
+==========================================
+KEAMANAN DATA DAN INFORMASI - UAS
+==========================================
